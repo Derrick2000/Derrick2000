@@ -3,8 +3,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 
-- 📚 &nbsp; I have completed my bachelor's degree from UC San Diego and will continue my Computer Science Master degree at UIUC
-- 🎉 &nbsp; I participated in UCSD TripleC for 1 years, served as the Backend Engineer.
+- 📚 &nbsp; I have completed my bachelor's degree in Math-Computer Science from UC San Diego
+- 📚 &nbsp; I will continue my master's degree in Computer Science at UIUC 
+- 🎉 &nbsp; I participated in UCSD TripleC for 1 years, served as a Backend Engineer
 - 🤔 &nbsp; I'm currently looking for software engineer internships at summer 2024
 - 🏀 &nbsp; I'm a basketball enthusiast and love to hit to gym to get better
 - ⚡ &nbsp; I'm a 🐱 and 🐶 lover who never owns any (Ask my parents!!)
@@ -90,4 +91,4 @@
 </p>
 
 * Credit: [Derrick2000](https://github.com/Derrick2000)
-* Last Edited on: 13/07/2023
+* Last Edited on: 14/07/2023
