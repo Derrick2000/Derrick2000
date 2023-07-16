@@ -4,9 +4,10 @@
 
 
 - 📚 &nbsp; I have completed my bachelor's degree in Math-Computer Science from UC San Diego
-- 📚 &nbsp; I will continue my master's degree in Computer Science at UIUC 
+- 📚 &nbsp; Will continue my master's degree in Computer Science at UIUC in Jan. 2024
+- 🤔 &nbsp; Currently looking for software engineer internships at summer 2024
+- 🤩 &nbsp; Working hard on my own project [MyCareer](https://github.com/TallMessiWu/my-career-frontend)
 - 🎉 &nbsp; I participated in UCSD TripleC for 1 years, served as a Backend Engineer
-- 🤔 &nbsp; I'm currently looking for software engineer internships at summer 2024
 - 🏀 &nbsp; I'm a basketball enthusiast and love to hit to gym to get better
 - ⚡ &nbsp; I'm a 🐱 and 🐶 lover who never owns any (Ask my parents!!)
 
