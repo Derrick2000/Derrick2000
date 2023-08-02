@@ -87,9 +87,9 @@
 	<a href="mailto:mil074mingyu@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Derrick2000"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/mingyu-li-9a3642200/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/derrick200002/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	
+	<a href="https://www.instagram.com/derrick200002/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>	
 </p>
+<p align="center"><a>Wechat: 2388037473</a></p>
 
 * Credit: [Derrick2000](https://github.com/Derrick2000)
-* Last Edited on: 27/07/2023
+* Last Edited on: 02/08/2023
